@@ -1,4 +1,5 @@
 #! /usr/bin/python3
 def main(msg):
+    // Adding a differente comment
     print(msg)
 print ("Hello People")
